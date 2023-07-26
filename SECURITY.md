@@ -21,5 +21,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 
-Check for the update in login---comment
-vineet changes
+Testing for pull alert
